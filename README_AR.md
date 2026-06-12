@@ -56,6 +56,14 @@
 
 ## 📥 التثبيت
 
+### الطريقة الأولى - سطر واحد
+انسخ والصق هذا السطر في منفذك (Executor):
+
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/tareqmm535-crypto/script-cobalt-x-GTO/refs/heads/main/Cobalt.luau"))()
+```
+
+### الطريقة الثانية - تحميل الملف
 1. قم بتحميل الملف `Cobalt.luau`
 2. استخدم أي منفذ أو Executor يدعم تنفيذ سكربتات Luau
 3. نفذ السكربت مباشرة في اللعبة
